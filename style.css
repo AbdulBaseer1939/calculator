@@ -60,13 +60,3 @@ span{
     border-radius: 5px;
     background-color: rgb(2, 150, 214);
 }
-@font-face {
-    font-family: Myfonts;
-    src: url(./fonts/eurostile-2/EuroStyle\ Normal.ttf);
-}
-h2{
-    font-family:Myfonts;
-    color: white;
-    font-size: xx-large;
-    letter-spacing: 1mm;
-}
