@@ -8,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: linear-gradient(rgba(255, 0, 0, 0.242));
+    background-color: rgb(44, 44, 44);
 }
 .calculator form{
     background-color: rgba(0, 0, 0, 0.973);
